@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "shikhar <officialshikharid@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/web.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo testing web package"
+  }
+}
